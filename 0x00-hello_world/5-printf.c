@@ -1,0 +1,11 @@
+#include_<stdio.h>
+/**
+	*main-entry_point_for_the_program
+	*
+	*Return:0_if_no_errors,_return_non_zero_if_errors
+	*/
+int_main(void)
+{
+	printf("with_proper_grammar,_but_the_outcome_is_a_piece_of_art,\n");
+	return_(0);
+}
