@@ -5,7 +5,7 @@
  *_strcpy - copies string pointed by source
  *with terminating null byte to
  *buffer pointed to by destination
- *dest: destination.
+ *@dest: destination.
  *@src: source.
  *Return: pointer to destination
  **/
