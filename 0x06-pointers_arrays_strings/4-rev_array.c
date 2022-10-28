@@ -20,5 +20,4 @@ void reverse_array(int *a, int n)
 			*(a + (f - 1)) = temp;
 		}
 	}
-	return (0);
 }
