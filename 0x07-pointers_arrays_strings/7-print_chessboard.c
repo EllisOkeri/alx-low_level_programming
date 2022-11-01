@@ -4,8 +4,8 @@
  * print_chessboard - Prints chessboard
  * @a: chess pieces
  * Return: void
+**/
 
- **/
 void print_chessboard(char (*a)[8])
 {
 	int i, j;
