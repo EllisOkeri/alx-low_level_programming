@@ -4,7 +4,7 @@
  * power_operation - square root
  * @n: number
  * @c: root
- * _sqrt_recursion - square root
+ * _sqrt_recursion - square root of number
  * Return: square root or -1
 **/
 
