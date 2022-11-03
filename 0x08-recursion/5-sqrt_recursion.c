@@ -4,7 +4,7 @@
  * power_operation - square root
  * @n: number
  * @c: root
- * _sqrt_recursion - square root of number
+ * @_sqrt_recursion - square root of number
  * Return: square root or -1
 **/
 
@@ -19,6 +19,12 @@ int power_operation(int n, int c)
 	}
 	return (0 + power_operation(n, c + 1));
 }
+
+/**
+ * _sqrt_recursion - square root
+ * @n: number
+ * Return: square root
+**/
 
 int _sqrt_recursion(int n)
 
